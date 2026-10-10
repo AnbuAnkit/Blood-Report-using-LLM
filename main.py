@@ -1,6 +1,3 @@
-def main():
-    print("Hello from blood-report-using-llm!")
+import streamlit as st
 
-
-if __name__ == "__main__":
-    main()
+st.title("Blood Report Summarizer")
